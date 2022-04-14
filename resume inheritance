@@ -1,0 +1,7 @@
+Pada modul 3 kali ini saya belajar tentang Inheritance.
+Inheritance ini dikenal sebagai "Pewarisan". 
+Terdapat 2 class yakni Superclass (parent class) dan Subclass (Anakclass).
+Mengunnakan method overloading.
+Terdapat 2 keyword, yakni : 
+Super : digunakan untuk memanggil konstuktor yang berada pada superclass.
+This : digunakan untuk pembuatan kelas & menyatakan objek yang ada pada kelas itu sendiri.
